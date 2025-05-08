@@ -12,16 +12,23 @@ username: admin </br>
 password: admin
 
 ## Getting Started
-run the source code
+#### runing the source file
+to run the source code you need first to download some python library, just run the following command in your terminal
+```bash
 python -m pip install -r requirements.txt
-### Dependencies
+```
+and now to run sirr application using python
+```bash
+python sirr_pyqt.py
+```
+on ubuntu
+```bash
+python3 sirr_pyqt.py
+```
+#### running the exe file
 
 just open the dist folder and start the application. </br>
 i offer the source code only if someone what to adjust it.
-
-
-
-
 
 ## Authors
 
